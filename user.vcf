@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Robin;Andersson;;;
-FN: Robin  Andersson 
+FN: Andersson  Robin 
 ORG:PicRobin;
 TITLE:Fotograf
 EMAIL;type=INTERNET;type=WORK;type=pref:hello@picrobin.se
-TEL;type=WORK;type=VOICE:+46 076238 3496
+TEL;type=WORK;type=VOICE:+46 76238 3496
 item1.ADR;type=WORK;type=pref:;; ;;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:www.picrobin.se
